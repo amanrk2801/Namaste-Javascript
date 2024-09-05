@@ -71,28 +71,3 @@
 #### [Episode 25 : `this` keyword in JavaScript](./notes/season-2/lecture-06.md)
 
 <br>
-
-## ✨ Testimonial
-
-From the creator of Namaste Javascript himself, 🙌
-![Testimonial](./assets/testimonial.png)
-
-## 👤 Author
-
-**alok raj (alokr417@gmail.com)**
-
-- website: https://alok722.github.io/
-- linkedin: [@alok722](https://linkedin.com/in/alok722)
-
-<br>
-
-## 🤝 Contribution Guidelines
-
-- Please create an issue with your suggestion, if found valid I would push the fix. 
-- Please, Don't open the PR directly without conversation.
-
-## ✨ Show your support
-
-Give a ⭐️ if this project helped you!
-
-![image info](https://api.star-history.com/svg?repos=alok722/namaste-javascript-notes&type=Timeline)
